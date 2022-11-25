@@ -1,0 +1,6 @@
+{
+    "accountNo":"10001",
+    "payeeAccountNo":"20001",
+    "amount":"50000000",
+    "transactionType":"IMPS"
+}
